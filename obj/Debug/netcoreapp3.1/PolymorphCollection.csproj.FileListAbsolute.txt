@@ -1,0 +1,13 @@
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.csprojAssemblyReference.cache
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.AssemblyInfoInputs.cache
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.AssemblyInfo.cs
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.csproj.CoreCompileInputs.cache
+D:\Users\bagusp\source\repos\PolymorphCollection\bin\Debug\netcoreapp3.1\PolymorphCollection.exe
+D:\Users\bagusp\source\repos\PolymorphCollection\bin\Debug\netcoreapp3.1\PolymorphCollection.deps.json
+D:\Users\bagusp\source\repos\PolymorphCollection\bin\Debug\netcoreapp3.1\PolymorphCollection.runtimeconfig.json
+D:\Users\bagusp\source\repos\PolymorphCollection\bin\Debug\netcoreapp3.1\PolymorphCollection.runtimeconfig.dev.json
+D:\Users\bagusp\source\repos\PolymorphCollection\bin\Debug\netcoreapp3.1\PolymorphCollection.dll
+D:\Users\bagusp\source\repos\PolymorphCollection\bin\Debug\netcoreapp3.1\PolymorphCollection.pdb
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.dll
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.pdb
+D:\Users\bagusp\source\repos\PolymorphCollection\obj\Debug\netcoreapp3.1\PolymorphCollection.genruntimeconfig.cache
